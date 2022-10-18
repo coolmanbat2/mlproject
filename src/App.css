@@ -1,0 +1,13 @@
+.upload-image {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.image > img {
+  margin: 3rem;
+  max-width: 42rem;
+  height: auto;
+}
